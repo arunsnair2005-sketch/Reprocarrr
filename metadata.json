@@ -1,6 +1,0 @@
-{
-  "name": "REPROCARE",
-  "description": "An immersive cinematic 3D interactive reproductive health research and educational website.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
